@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwcycles -ind-13/hwcycles -ind-13.iml" filepath="$PROJECT_DIR$/hwcycles -ind-13/hwcycles -ind-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwcycles -ind-13/hwcycles-ind-13/hwcycles-ind-13.iml" filepath="$PROJECT_DIR$/hwcycles -ind-13/hwcycles-ind-13/hwcycles-ind-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwcycles-ind13/hwcycles-ind13.iml" filepath="$PROJECT_DIR$/hwcycles-ind13/hwcycles-ind13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwcycles -ind-13/hwvariables-ind-12/hwvariables-ind-12.iml" filepath="$PROJECT_DIR$/hwcycles -ind-13/hwvariables-ind-12/hwvariables-ind-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwcycles -ind-13/hwcycles-ind-13/untitled/untitled.iml" filepath="$PROJECT_DIR$/hwcycles -ind-13/hwcycles-ind-13/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwcycles -ind-13/hwcycles-ind-13/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/hwcycles -ind-13/hwcycles-ind-13/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
